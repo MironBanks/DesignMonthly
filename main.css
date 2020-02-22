@@ -100,3 +100,18 @@ nav a span {
 }
 
 /* header */
+
+header{
+    height: 1000px;
+    min-height: 1000px;
+    padding: 0 5%;
+    background-image: url(images/background_header.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top right;
+}
+
+header h1{
+    width: 40%;
+    margin:2em 0 0 0 ;
+}
