@@ -181,3 +181,29 @@ header h1{
     margin: 0 60px;
     vertical-align: middle;
 }
+
+footer{
+    padding: 0 5%;
+    background-image: url(images/wave_footer@2x.png);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: 100%;
+    bottom: 0;
+    height: 400px;
+    color: #2B9DFF;
+}
+
+footer p, .footerPages {
+    display: inline-block;
+}
+
+.footerPages{
+    float: right;
+}
+
+.footerPages a {
+    text-decoration: none;
+    font-weight: 100;
+    color: #2B9DFF;
+    margin-left: 30px;
+}
